@@ -8,4 +8,4 @@ O app é algo simples, você adiciona o nome de seus amigos que vão participar 
 
 ![image](https://github.com/user-attachments/assets/e9293be5-0edb-44a2-aea1-214419f2c2f5)
 
-Agradeço ás equipes da Oracle e da Alura pela oportunidade de aprendizado.
+Agradeço às equipes da Oracle e da Alura pela oportunidade de aprendizado.
